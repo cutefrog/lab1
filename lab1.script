@@ -1,0 +1,17 @@
+Script started on 2017年03月21日 (週二) 11時04分04秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami;pwd ;pwd[1P;pwd[C pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git cione https://github.com/cutefrog/lab1.git
+git: 'cione' is not a git command. See 'git --help'.
+
+Did you mean this?
+	clone
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m ^C
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clonr[Ke httpd[Ks://github.com/cutefrog/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月21日 (週二) 11時08分52秒
