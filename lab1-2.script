@@ -1,0 +1,25 @@
+Script started on 2017年03月21日 (週二) 14時27分02秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m whoan[Kmi; pwd
+pd2vm
+/home/pd2vm/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git config -l
+user.email=git@github.com:cutefrog/lab1.git
+user.name=cutefrog
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/cutefrog/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clone https://github.com/<your github accoun t>/lab1.git[1P/lab1.git[C[1P/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/l[1Pab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/la[1Pb1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab[1P1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1[1P.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.[1Pgit[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.g[1Pit[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.gi[1Pt[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git[K[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitc/lab1.gitu/lab1.gitt/lab1.gite/lab1.gitf/lab1.gitr/lab1.gito/lab1.gitg/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 6, done.[K
+remote: Compressing objects:  20% (1/5)   [Kremote: Compressing objects:  40% (2/5)   [Kremote: Compressing objects:  60% (3/5)   [Kremote: Compressing objects:  80% (4/5)   [Kremote: Compressing objects: 100% (5/5)   [Kremote: Compressing objects: 100% (5/5), done.[K
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0[K
+Unpacking objects:  16% (1/6)   Unpacking objects:  33% (2/6)   Unpacking objects:  50% (3/6)   Unpacking objects:  66% (4/6)   Unpacking objects:  83% (5/6)   Unpacking objects: 100% (6/6)   Unpacking objects: 100% (6/6), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m 
+Script done on 2017年03月21日 (週二) 14時29分25秒
